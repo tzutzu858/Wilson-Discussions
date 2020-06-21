@@ -2,9 +2,12 @@
 Wilson Discussions放目錄的地方，之後回頭找比較方便，原本是想每週一題大家討論討論就好，負擔也不會太重，訓練演算法及基礎，但其實很隨意，想po就po。<br />
 就試看看吧，直到我發懶就可以關了。<br />
 
+## Android APP Side Project
+[「生活記錄」的 APP](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/10)<br />
+
 ## 解題
 
-[誰是人氣王](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/9)<br />
+[誰是人氣王(已解決)](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/9)<br />
 [TwoSum](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/7)<br />
 [NM 乘法表(已解決)](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/6)<br />
 [可憐的小豬](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/5)<br />
