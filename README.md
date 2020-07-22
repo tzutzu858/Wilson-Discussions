@@ -4,8 +4,8 @@ Wilson Discussions放目錄的地方，之後回頭找比較方便，原本是�
 
 
 ## 資訊分享
-[改良型氣泡排序(搖晃排序(shaker) or 雞尾酒排序(Cocktail))](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/20)
-[github pages建立靜態網站?](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/19)
+[改良型氣泡排序(搖晃排序(shaker) or 雞尾酒排序(Cocktail))](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/20)<br />
+[github pages建立靜態網站?](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/19)<br />
 [[紀錄] 各個 IDE 的 debug 在哪裡](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/17)<br />
 [Anroid討論題:Activity VS Fragment的按鈕配置](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/16)<br />
 [計算機概論影片](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/1)<br />
