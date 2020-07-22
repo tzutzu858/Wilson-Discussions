@@ -2,8 +2,14 @@
 Wilson Discussions放目錄的地方，之後回頭找比較方便，原本是想每週一題大家討論討論就好，負擔也不會太重，訓練演算法及基礎，但其實很隨意，想po就po。<br />
 就試看看吧，直到我發懶就可以關了。<br />
 
-## Android APP Side Project
-[「生活記錄」的 APP](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/10)<br />
+
+## 資訊分享
+[改良型氣泡排序(搖晃排序(shaker) or 雞尾酒排序(Cocktail))](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/20)
+[github pages建立靜態網站?](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/19)
+[[紀錄] 各個 IDE 的 debug 在哪裡](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/17)<br />
+[Anroid討論題:Activity VS Fragment的按鈕配置](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/16)<br />
+[計算機概論影片](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/1)<br />
+
 
 ## 解題
 [餐廳位置排排看](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/18)<br />
@@ -20,14 +26,8 @@ Wilson Discussions放目錄的地方，之後回頭找比較方便，原本是�
 [九九乘法表(已解決)](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/2)<br />
 
 
-## 資訊分享
-[改良型氣泡排序(搖晃排序(shaker) or 雞尾酒排序(Cocktail))](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/20)
-[github pages建立靜態網站?](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/19)
-[[紀錄] 各個 IDE 的 debug 在哪裡](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/17)<br />
-[Anroid討論題:Activity VS Fragment的按鈕配置](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/16)<br />
-[計算機概論影片](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/1)<br />
-
-
+## Android APP Side Project
+[「生活記錄」的 APP](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/10)<br />
 
 ## git 語法
 [Git 解題 : 寫一個 github.sh](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/14)<br />
