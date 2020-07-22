@@ -1,5 +1,5 @@
 # Wilson-Discussions
-Wilson Discussions放目錄的地方，之後回頭找比較方便，原本是想每週一題大家討論討論就好，負擔也不會太重，訓練演算法及基礎，但其實很隨意，想po就po。<br />
+Wilson Discussions 放目錄的地方，之後回頭找比較方便，很隨意想 po 什麼就 po 什麼。<br />
 就試看看吧，直到我發懶就可以關了。<br />
 
 
