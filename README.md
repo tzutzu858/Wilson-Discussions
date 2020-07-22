@@ -1,8 +1,8 @@
 # Wilson-Discussions
 Wilson Discussions 放目錄的地方，之後回頭找比較方便，很隨意想 po 什麼就 po 什麼。<br />
 就試看看吧，直到我發懶就可以關了。<br />
-
-
+<br />
+私人放問題討論，所以只有成員看得到<br />
 ## 資訊分享
 [改良型氣泡排序(搖晃排序(shaker) or 雞尾酒排序(Cocktail))](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/20)<br />
 [github pages建立靜態網站?](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/19)<br />
