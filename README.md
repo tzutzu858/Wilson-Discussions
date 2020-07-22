@@ -6,6 +6,9 @@ Wilson Discussions放目錄的地方，之後回頭找比較方便，原本是�
 [「生活記錄」的 APP](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/10)<br />
 
 ## 解題
+[餐廳位置排排看](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/18)<br />
+[貪婪的小偷(背包問題)](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/15)<br />
+[水仙花數](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/13)<br />
 [使用較快的搜尋法](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/12)<br />
 [威力彩取號(已解決)](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/11)<br />
 [誰是人氣王(已解決)](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/9)<br />
@@ -18,9 +21,14 @@ Wilson Discussions放目錄的地方，之後回頭找比較方便，原本是�
 
 
 ## 資訊分享
-
+[改良型氣泡排序(搖晃排序(shaker) or 雞尾酒排序(Cocktail))](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/20)
+[github pages建立靜態網站?](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/19)
+[[紀錄] 各個 IDE 的 debug 在哪裡](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/17)<br />
+[Anroid討論題:Activity VS Fragment的按鈕配置](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/16)<br />
 [計算機概論影片](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/1)<br />
 
-## git 語法
 
+
+## git 語法
+[Git 解題 : 寫一個 github.sh](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/14)<br />
 [-u的意思(已解決)](https://github.com/orgs/BeginnerStudy/teams/wilson/discussions/8)<br />
